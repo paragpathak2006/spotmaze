@@ -11,7 +11,7 @@
 	"Developer Mode": [
 		{
 		    "Status"	: "Off"		,	"Info1":	"Turns on the Developer Interface"	,
-		    "File Name"	: "My World"	,	"Info2":	"Name of the file"			,
+		    "File Name"	: "Parag's World"	,	"Info2":	"Name of the file"			,
 		    "Version"	: "0.0.2"	,	"Info3":	"File Version for checking FIle"	,
 		    "Syntax"	: "1.0"		,	"Info4":	"File Syntax Version"			
 		}
