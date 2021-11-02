@@ -1,6 +1,9 @@
 # Welcome to the Spotmaze Repository
 Spotmaze is a virtual world creation platform that enables you to build and customize your own personalized virtual worlds.
 
+## Download the Spotmaze video tutorials
+https://drive.google.com/drive/folders/1uFoeFM3rilbJz49_iyZiGy5QKXaBKMjv
+
 ## How it works?
 You first create a grid of connected locations and pathways. These are meant to represent any topics that are closely related. Each location can be then be linked to a forum, where you can receive responses from your community. You can then share this world using a simple URL.
 
@@ -24,6 +27,7 @@ You first create a grid of connected locations and pathways. These are meant to 
 - Copy & paste this output into your existing JSON source file to compleate the process.
 - Or else replace the current file with the newly created one from the website.
 - Your XLSX format should match the standard format as shown here in this [repository file](https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx)
+
 ## Download the Spotmaze Excel File
 - GitHub download : https://raw.githubusercontent.com/spotmaze/spotmaze/main/spotmaze.xlsx
 - Google drive : https://docs.google.com/spreadsheets/d/1Q0a8-2sIvj7IQSQ2C1mAVWkEygv6768o
